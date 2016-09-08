@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+// base class for other types on lines
 
 class line {
     var deltaTime:[NSTimeInterval] = []
